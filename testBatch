@@ -1,0 +1,1 @@
+java -cp PairWiseTest.jar PairWiseTest $1 $2
